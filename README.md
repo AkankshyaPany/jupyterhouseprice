@@ -1,6 +1,5 @@
-# jupyterhouseprice
-To predict the price of houses based on specific features of house.
-Predicting the house prices using LINEAR REGRESION.
+# housepriceprediction
+Predicting the house prices based on specific features of house using LINEAR REGRESION.
 
 This project applies basic machine learning concepts that accurately predicts real estate price in chennai.
 
